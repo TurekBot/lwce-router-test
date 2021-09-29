@@ -1,3 +1,20 @@
 <template>
-    
+    <lwce-router>
+        <header>
+            <h1>Test</h1>
+            <nav>
+                <ul>
+                    <li><lwce-link href="/">Home</lwce-link></li>
+                    <li><lwce-link href="/page1">Page 1</lwce-link></li>
+                    <li><lwce-link href="/page2">Page 2</lwce-link></li>
+                </ul>
+            </nav>
+        </header>
+        <lwce-route>
+            <div>page 1</div>
+        </lwce-route>
+        <lwce-route>
+            <div>page 2</div>
+        </lwce-route>
+    </lwce-router>
 </template>

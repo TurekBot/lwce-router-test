@@ -4,6 +4,7 @@
     "author": "Bradley Turek",
     "bugs": "https://github.com/Bradley Turek/router-test/issues",
     "dependencies": {
+        "@lwc/synthetic-shadow": "^2.5.2",
         "@lwce/router": "^1.0.0",
         "compression": "^1.7.4",
         "express": "^4.17.1",

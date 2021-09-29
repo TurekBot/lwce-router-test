@@ -4,6 +4,9 @@ This is an Minimal, Reproducible Example of how to use [@lwce/router] in a [crea
 
 I carefully followed [this video] in my attempt.
 
+Open issue: https://github.com/LWC-Essentials/router/issues/26
+
+
 [this video]: https://www.youtube.com/watch?v=e-oNJ5oFhgs
 
 [@lwce/router]: https://github.com/LWC-Essentials/router
